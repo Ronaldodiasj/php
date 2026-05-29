@@ -27,10 +27,10 @@
 <form action="raiz.php" method="POST">
     <input type="text" name="R" id="R" placeholder="Raiz quadrada de ?" required >
     <input type="submit" value="Raiz" id="calcular">
-</form>
-<form action="condicao-if.php" method="post">
+</form><br>
+<form action="if-else.php" method="POST">
     <input type="text" name="nome" id="nome" placeholder="Digite seu nome" required>
     <input type="text" name="idade" id="idade" placeholder="Digite sua idade" required>
-    <input type="submit" value="Enviar" id="calcular">
+    <input type="submit" value="VOTO" id="calcular">
 </body>
 </html>
